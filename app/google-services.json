@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1037200784114",
+    "firebase_url": "https://movie-app-594f6.firebaseio.com",
+    "project_id": "movie-app-594f6",
+    "storage_bucket": "movie-app-594f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037200784114:android:b9cbb181a0aa0a49",
+        "android_client_info": {
+          "package_name": "com.example.ashaiaa.rofaeil.idea.MovieApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037200784114-cumnvj50lbo583rsqg25bi0s21qleh4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ashaiaa.rofaeil.idea.MovieApp",
+            "certificate_hash": "6760330C4C829C0E0C199635B0E1B13418A76AAE"
+          }
+        },
+        {
+          "client_id": "1037200784114-8a8dedmq4av53vmfn337tdfpudovid3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrSMrMgvGzxqpK9zjp2QKQGZSJdggjay0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037200784114-8a8dedmq4av53vmfn337tdfpudovid3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

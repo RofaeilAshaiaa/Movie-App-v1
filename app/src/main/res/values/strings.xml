@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Awsome Movie app</string>
+    <string name="preference_file_name">Preferences_app</string>
+    <string name="last_selected" >last_selected</string>
+    <string name="user_id" >user_id</string>
+    <string name="loding">Loding ...</string>
+</resources>

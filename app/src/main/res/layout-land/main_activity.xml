@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context="com.example.ashaiaa.rofaeil.idea.MovieApp.mainClasses.MainActivity">
+
+    <fragment
+        android:id="@+id/main_fragment"
+        android:name="com.example.ashaiaa.rofaeil.idea.MovieApp.mainClasses.MainFragment"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        tools:layout="@layout/main_fragment" />
+
+
+    <FrameLayout
+        android:id="@+id/detail_fragment_container"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+    </FrameLayout>
+
+
+</LinearLayout><!--android:layout_weight="1"--><!--android:layout_width="0dp"-->
